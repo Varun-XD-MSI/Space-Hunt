@@ -46,7 +46,12 @@ A simple **2D space shooting game** built using **Python and Pygame**, where the
 ---
 
 ## ▶️ How to Run
-1. Make sure Python is installed
-2. Install pygame:
-   ```bash
-   pip install pygame
+
+Follow the steps below to run the game on your system:
+
+```bash
+pip install pygame
+git clone https://github.com/Varun-XD-MSI/Space-Hunt.git
+cd Space-Hunt
+python main.py
+
